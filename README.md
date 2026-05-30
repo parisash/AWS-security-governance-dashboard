@@ -245,6 +245,7 @@ Planned improvements include:
 ## Author
 
 **Parisa Shojaei**
+
 Cybersecurity GRC · Cloud Security · Privacy Governance · Risk Analytics · AI Assurance
 Python · SQL · AWS · Jira
 
