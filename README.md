@@ -136,16 +136,18 @@ Findings are mapped to common cloud security and GRC control areas, such as:
 * Incident response readiness
 * Third-party and privacy risk
 
-## Example Outputs
+## Project Outputs
 
-The project will generate:
+This project generates practical governance-ready outputs from mock AWS security findings:
 
-* Risk summary table
-* Top critical findings
-* Open remediation items
-* Control coverage summary
-* Evidence register
-* Executive summary report
+- `reports/risk_scored_findings.csv` — enriched findings with risk scores, remediation priority, SLA, control mapping and evidence status
+- `reports/risk_summary.csv` — summary of findings by remediation priority and status
+- `reports/executive_summary.md` — executive-style governance report for audit readiness and stakeholder reporting
+
+The workflow demonstrates:
+
+```text
+Mock AWS Findings → Risk Scoring → Control Mapping → Remediation Priority → Evidence Register → Executive Report
 
 ## Tools and Technologies
 
