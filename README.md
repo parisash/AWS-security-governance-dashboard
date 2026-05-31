@@ -155,7 +155,7 @@ Mock AWS Findings → Risk Scoring → Control Mapping → Remediation Priority 
 * pandas
 * CSV
 * Markdown reporting
-* Optional: Streamlit for dashboard visualisation
+* Streamlit for dashboard visualisation
 
 ## How to Run
 
