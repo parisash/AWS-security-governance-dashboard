@@ -244,13 +244,13 @@ Planned improvements include:
 * Add sample screenshots
 * Add automated executive report generation
 
+## Disclaimer
+
+This project uses simulated data for portfolio and learning purposes. It does not contain real security findings, real AWS account data or confidential organisational information.
+
 ## Author
 
 **Parisa Shojaei**
 
 Cybersecurity GRC · Cloud Security · Privacy Governance · Risk Analytics · AI Assurance
 Python · SQL · AWS · Jira
-
-## Disclaimer
-
-This project uses simulated data for portfolio and learning purposes. It does not contain real security findings, real AWS account data or confidential organisational information.
