@@ -1,0 +1,8 @@
+remediation_priority,status,finding_count
+Critical,In Progress,1
+Critical,Open,1
+High,Open,4
+Medium,In Progress,1
+Medium,Open,4
+Low,In Progress,1
+Low,Open,3
